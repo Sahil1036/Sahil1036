@@ -24,7 +24,7 @@
 <p align="center">
   <a href="mailto:sahilkumar02183@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/Sahil_36/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sahil1036-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sahil_1036"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-sahil1036-FFA518?style=for-the-badge&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/sahil_36/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-sahil1036-FFA518?style=for-the-badge&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://github.com/sahil1036"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sahil36/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
