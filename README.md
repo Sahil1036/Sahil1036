@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Turning+ideas+into+code!;Crafting+beautiful+web+experiences!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Turning+ideas+into+code.....!;Crafting+beautiful+web+experiences!"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-### My Contribution Streak
+### My Contribution Streak:
 ![sahil1036's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahil1036&theme=tokyonight&hide_border=false)
 ![sahil1036's Stats](https://github-readme-stats.vercel.app/api?username=sahil1036&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
@@ -54,6 +54,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-### Top Languages
+### Top Languages:
 
 ![sahil1036's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1036&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
