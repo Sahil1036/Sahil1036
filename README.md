@@ -13,12 +13,11 @@
     <img src="https://img.shields.io/github/followers/sahil1036?label=Followers&style=social" alt="followers-count">
   </a>
 </p>
-
 <h3 align="left">About Me:</h3>
-
 <p>
   Hi, I'm Sahil, a web developer with a knack for crafting elegant and efficient solutions. My passion lies in transforming ideas into beautifully designed, user-friendly websites. I thrive on learning new technologies and am always eager to collaborate on exciting projects.
 </p>
+<img src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
 
 ## Connect with me:
 <p align="center">
