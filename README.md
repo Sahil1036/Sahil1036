@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Sahil!</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Turning+ideas+into+code.........!;Crafting+beautiful+web+experiences!"/>
